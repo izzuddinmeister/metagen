@@ -1,0 +1,27 @@
+{
+  "name": "metagen",
+  "version": "1.0.0",
+  "description": "Creating Metadata Form Using NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Izzuddin Noor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izzuddinmeister/metagen.git"
+  },
+  "keywords": [
+    "XML",
+    "Form"
+  ],
+  "bugs": {
+    "url": "https://github.com/izzuddinmeister/metagen/issues"
+  },
+  "homepage": "https://github.com/izzuddinmeister/metagen#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
